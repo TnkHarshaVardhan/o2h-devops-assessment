@@ -1,3 +1,5 @@
 # o2h DevOps Assessment
 
 DevOps Fresher Assessment Submission
+
+Homepage feature added.
